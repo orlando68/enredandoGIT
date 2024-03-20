@@ -1,0 +1,5 @@
+*.xlsx
+*.jpg
+.idea/
+Cursos_ejemplos/
+ejemplos sklearn/
