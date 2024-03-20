@@ -1,5 +1,6 @@
 *.xlsx
 *.jpg
+GRANDE.*
 .idea/
 Cursos_ejemplos/
 ejemplos sklearn/
